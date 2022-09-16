@@ -96,7 +96,18 @@ replay_pid*
 # End of https://www.toptal.com/developers/gitignore/api/java,eclipse
 
 
+
+##### commit 제외파일 ##### 
+
 /Git_ignore_test/src/main/java/nocommit_all/
 /Git_ignore_test/src/main/java/nocommit_some/NoCommit_3.java
+
+.classpath
+.gitignore
+/Git_ignore_test/src/main/webapp/WEB-INF/web.xml
+
+
+
+
 
 
